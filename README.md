@@ -66,3 +66,8 @@ Week 5-6 (By 11/12) Data Modeling & Visualization PageRank Algorithm Identify K 
 Week 7-8 (By 11/26) Data Analysis & Conclusions PowerPoint Presentation complete
 
 Week 9 (Presentation Date: 11/30) Practice Presentation Present findings to the class
+
+*To run the code:*
+1. Download pagerank.ipynb
+2. Open the file in Google Colab
+3. Type "Ctrl+F9"
